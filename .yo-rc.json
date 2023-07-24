@@ -1,0 +1,16 @@
+{
+  "generator-ui5-react-nest": {
+    "application": "helloworld",
+    "namespace": "helloworld",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.108.19",
+    "reactappId": "react",
+    "author": "Gregor Wolf",
+    "initrepo": true,
+    "tstypes": "@sapui5/ts-types-esm",
+    "tstypesVersion": "1.108.19",
+    "appId": "helloworld",
+    "appURI": "helloworld",
+    "setupCompleted": true
+  }
+}
